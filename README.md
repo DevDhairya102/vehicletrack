@@ -7,3 +7,11 @@ The system provides real-time tracking, route monitoring, vehicle information ma
 Features
 Real-time vehicle tracking
 GPS location monitoring
+Vehicle registration and management
+Live route updates
+Driver and vehicle details management
+Speed monitoring
+Trip history tracking
+Alerts and notifications
+User authentication and authorization
+Responsive dashboard interface
