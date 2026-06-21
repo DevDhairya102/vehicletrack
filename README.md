@@ -23,3 +23,21 @@ CSS
 JavaScript
 AngularJS / React (depending on implementation)
 Bootstrap / Tailwind CSS
+
+Technologies Used
+Frontend
+HTML
+CSS
+JavaScript
+AngularJS / React (depending on implementation)
+Bootstrap / Tailwind CSS
+Backend
+PHP / Node.js / Python
+REST APIs
+Database
+MySQL
+MongoDB (optional)
+Other Tools
+Google Maps API
+GPS Module
+Git & GitHub
